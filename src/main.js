@@ -5,6 +5,8 @@ import store from './store'
 
 Vue.config.productionTip = false
 
+import './assets/img/tabbar/iconfont/iconfont'
+
 new Vue({
   router,
   store,
